@@ -4,6 +4,6 @@ export const [user, setUser] = useState({});
 
 export default function Perfil() {
   return (
-    <h2>perfil</h2>
+    <h1>perfil</h1>
   )
 }
