@@ -1,9 +1,9 @@
-import { useState } from "react";
+// import { useState } from "react";
 
-export const [user, setUser] = useState({});
+// export const [user, setUser] = useState({});
 
-export default function Perfil() {
+export default function Page() {
   return (
-    <h4>perfil</h4>
+    <h1>perfil</h1>
   )
 }
